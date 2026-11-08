@@ -1,0 +1,10 @@
+figure_id,value
+nsr_records,49451.0
+pending_major,15.0
+median_wait_pending,263.0
+median_days_to_issue,300.0
+std_permit_days,18.0
+construct_days,259.0
+psd_days,311.5
+power_apps_oct26,0.0
+power_apps_2025_median,6.5

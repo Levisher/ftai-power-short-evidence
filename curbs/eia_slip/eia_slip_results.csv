@@ -1,0 +1,9 @@
+figure_id,value
+cohort_gw,6.6826
+online_pct,69.960794
+slipped_pct,29.949421
+cancelled_pct,0.089785
+tx_slipped_pct,61.38949
+rest_slipped_pct,15.26607
+tx_slipped_mw,1306.0
+median_slip_months,6.0

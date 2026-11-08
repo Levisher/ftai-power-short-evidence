@@ -1,0 +1,21 @@
+source,group,gw,first_year,basis
+Existing on-site fleet at end 2026,Existing,3.0,2026,Open Factory (Oct 2026); Cleanview 2.8-3.2 GW (Jun 2026)
+"Wartsila, Net Power Permian",Gas engines,0.123,2027,"SEC 8-K, 30 Jan 2026"
+"Enchanted Rock, Meta El Paso",Gas engines,0.366,2027,"El Paso Electric filing, Feb 2026"
+"Caterpillar, Atlas Energy",Gas engines,0.328,2027,"Atlas 8-K, 18 Sep 2026"
+"Caterpillar, Atlas frontier",Gas engines,0.283,2027,"Atlas release, Sep 2026"
+"Enerflex, North American developer",Gas engines,0.45,2027,"Enerflex, 1 Oct 2026"
+"INNIO Jenbacher, VoltaGrid",Gas engines,1.5,2028,"INNIO, 11 Feb 2026"
+"Wartsila, Texas developer",Gas engines,0.79,2028,"Wartsila, 23 Apr 2026"
+"INNIO Jenbacher, US energy company",Gas engines,0.45,2028,"INNIO, 17 Sep 2026"
+"Enerflex, large data-centre developer",Gas engines,1.0,2028,"Enerflex, 13 Oct 2026"
+Vantage Frontier engines,Tracker projects,2.6,2028,Cleanview and Open Factory
+VoltaGrid plan beyond the census,Tracker projects,1.4,2028,4.3 GW plan less 1.4 GW fielded less 1.5 GW INNIO
+"Joule Utah, Caterpillar G3520K",Tracker projects,1.5,2028,"636 gensets, ramp by early 2028"
+"Bloom, Oracle and Wyoming",Fuel cells,1.9,2027,"Bloom, 13 Apr 2026"
+ProEnergy PE6000,Converted aero,0.65,2027,"ProEnergy, 16 Apr 2026"
+"Microsoft-Chevron, by 2028",Frame turbines,0.7,2028,"Chevron, 22 Jun 2026"
+"Bloom Fremont factory, 2029",Factory capacity,2.0,2029,"Bloom FY2025 10-K, 2 GW a year by end 2026"
+"Bloom Fremont factory, 2030",Factory capacity,2.0,2030,Bloom FY2025 10-K
+"INNIO-Gfollner US module plant, 2029",Factory capacity,1.0,2029,"INNIO, above 1 GW a year by 2028"
+"INNIO-Gfollner US module plant, 2030",Factory capacity,1.0,2030,INNIO

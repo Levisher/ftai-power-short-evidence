@@ -1,0 +1,12 @@
+stage,min_days,mode_days,max_days,evidence
+Source core from FTAI pool,0,7,30,450+ CFM56 engines in pool; $150m of turbines bought in Q4 2025 (Q4 2025 call)
+Inspect and assess core,7,14,21,Not disclosed; range
+Procure replacement hot-section parts,14,45,120,"HPT blade shortage; CFM56 overhauls 90-120 days (Aviation Week, 2026)"
+Refurbish and convert core,60,80,120,"""turnaround time on a core would be like 60, 80 days"" (Adams, 4 Sep 2025)"
+Turbine test cell run,3,5,10,Two full-size Montreal test cells
+Transfer turbine to Houston,7,10,21,Montreal to Houston
+"Package turbine with generator, gearbox, controls",30,45,75,Jereh; not disclosed
+Factory test of finished unit,5,10,20,Not disclosed; range
+Ship to site,5,10,21,Trailer-mounted
+Install and commission,14,30,60,"Milestones through on-site commissioning (Moreno, 30 Jul 2026)"
+Customer acceptance,14,30,60,Output test against the 10% price-adjustment clause

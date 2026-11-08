@@ -1,0 +1,26 @@
+input,value,source
+kw_per_gpu,1.275,kW per H100 GPU incl. node (DGX H100 10.2 kW / 8)
+pue,1.3,Power usage effectiveness
+hours_month,730.0,Hours in a month
+h100_contract,2.35,"H100 one-year contract, $/GPU-hour (coloprice.com, Mar 2026)"
+rented_share,0.85,Share of hours rented (Occam Edge 80-90%)
+gpu_margin,0.6222,GPU owner EBITDA margin (CoreWeave 2027 consensus)
+hgx_price,285000.0,"8-GPU HGX system, midpoint of $250-320k"
+gpu_life_months,72.0,"GPU life (CoreWeave FY2025 10-K, six years)"
+dev_value_gw_month,150.0,"Developer revenue at risk, $m per GW-month (Occam Edge)"
+colo_rent,212.5,"Colocation rent, $ per kW-month (CBRE, Q1 2026)"
+colo_margin,0.5465238635538568,Colocation EBITDA margin (Digital Realty 2027 consensus)
+mw_mod1,300.0,"Installed MW for 100 MW firm at 99.99%, Mod-1 (12 units)"
+mw_eng,206.8,"Installed MW, gas engines (11 units)"
+price_mod1,977.0,"Mod-1 $ per kW (J&F order, $1.465bn)"
+price_eng,1599.0,Gas engine installed $ per kW (Net Power 8-K)
+site_mod1,867.5497630331752,"EIA site and owner cost added to Mod-1, $ per kW"
+life_mod1,25.0,"Life, years"
+life_eng,30.0,"Life, years"
+hr_mod1,9.981,"Heat rate, MMBtu/MWh HHV"
+hr_eng,8.924,"Heat rate, MMBtu/MWh HHV"
+vom_mod1,4.19,Variable O&M $/MWh
+vom_eng,5.7,Variable O&M $/MWh
+fom,9.56,Fixed O&M $/kW-year
+gas,3.16,Gas $/MMBtu
+rate,0.08,Discount rate
