@@ -1,7 +1,7 @@
 line,slide,side,state,reading,last_run_days,meaning
-texas_filings_resume,2B,against,quiet,"0 applications in 2026-10, trigger 3.2",1,Texas buyers file again and the 13.6-month delay starts to shorten
-texas_cohort_catches_up,2B,against,quiet,61.4% of Texas cohort MW still slipped in september_generator2026,1,Delayed Texas grid gas comes online and the slip finding weakens
-turbine_imports_slow,2B,against,quiet,333 units in the four quarters to 2026Q3,1,Rival imported supply stops building during the delay
-second_mod1_order,2D,against,quiet,"4 filings checked since 29 Oct 2026, 0 unreviewed with a new order amount",0,A second purchase order lifts the 58-unit cap behind $0 Power EBITDA from Q3 2028
-china_gensets_land,2D,for,fired,"13 units, 2026-07 to 2026-09",1,Jereh-route gensets keep landing ahead of Mod-1
-doe_rule_published,2D,for,quiet,"1 documents since 26 Aug 2026, 0 DOE or Commerce rules",0,The ban risk dated for about 24 Dec 2026 arrives
+texas_filings_resume,2B,against,quiet,"0 applications in 2026-10, trigger 3.2",4,Texas buyers file again and the 13.6-month delay starts to shorten
+texas_cohort_catches_up,2B,against,quiet,61.4% of Texas cohort MW still slipped in september_generator2026,0,Delayed Texas grid gas comes online and the slip finding weakens
+turbine_imports_slow,2B,against,quiet,333 units in the four quarters to 2026Q3,0,Rival imported supply stops building during the delay
+second_mod1_order,2D,against,quiet,"4 filings checked since 29 Oct 2026, 0 unreviewed with a new order amount",3,A second purchase order lifts the 58-unit cap behind $0 Power EBITDA from Q3 2028
+china_gensets_land,2D,for,fired,"13 units, 2026-07 to 2026-09",0,Jereh-route gensets keep landing ahead of Mod-1
+doe_rule_published,2D,for,quiet,"1 documents since 26 Aug 2026, 0 DOE or Commerce rules",3,The ban risk dated for about 24 Dec 2026 arrives
