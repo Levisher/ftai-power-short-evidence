@@ -3,3 +3,4 @@ run_date,status,power_records,latest_month,nsr_records
 2026-11-08,complete,14.0,2026-11,4216.0
 2026-11-08,complete,14.0,2026-11,4216.0
 2026-11-09,failed,,,
+2026-11-16,complete,14.0,2026-11,4547.0
